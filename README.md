@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pelumiade
-- 👀 I’m interested in being a software engineer
-- 🌱 I’m currently learning on ALX
-- 💞️ I’m looking to collaborate on projects relating to software engineer
-- 📫 How to reach me ...
+- 👀 I’m interested in being a software engineer(Backend Engineer)
+- 🌱 I’m currently learning on ALX 
+- 💞️ I’m looking for an Internship program for software engineer to learn more 
+- 📫 pelumifola@gmail.com
 
 <!---
 Pelumiade/Pelumiade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
