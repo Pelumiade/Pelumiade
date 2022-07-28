@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning on ALX 
 - 💞️ I’m looking for an Internship program for software engineer to develop and learn more skills.
 - 📫 pelumifola@gmail.com
+- 🐦 Twitter account: Fola_Pelumi
+
 
 <!---
 Pelumiade/Pelumiade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
