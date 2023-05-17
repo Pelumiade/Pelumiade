@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning on ALX 
 - 💞️ I’m looking for an Internship program for software engineer to develop and learn more skills.
 - 📫 pelumifola@gmail.com
-- 🐦 Twitter account: Fola_Pelumi
+- 🐦 Twitter account: Afo_labbie
+-
 
 
 <!---
