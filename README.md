@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pelumiade
-- 👀 I’m interested in being a software engineer(Backend Engineer)
+- 👀 I am a software engineer(Backend)
 - 📫 pelumifola@gmail.com
-- 🐦 Twitter account: Afo_labbie
+- 
 -
 
 
